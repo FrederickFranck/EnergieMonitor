@@ -1,0 +1,10 @@
+Current sensor: https://www.sparkfun.com/products/14544
+
+
+Coulomb counter: https://www.sparkfun.com/products/12052
+
+
+LCD display: https://www.dfrobot.com/product-135.html
+
+
+Seeeduino Xiao: https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html
